@@ -1,16 +1,30 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Ritesh</h1>
+<h3 align="center">Web & Game Developer from IIT Roorkee</h3>
 
-<!--
-**riteshco/riteshco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=30A9F0&center=true&vCenter=true&width=435&lines=B.Tech+Student+%40+IIT+Roorkee;Full-Stack+Developer;Game+Dev+Enthusiast;Low-Level+Programming" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=riteshco&label=Profile%20Visitors&color=0e75b6&style=flat" alt="riteshco" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 About Me
+
+I'm a **2nd-year B.Tech student** in Electronics and Communication Engineering at **IIT Roorkee** and a Developer at **SDSLabs**. 
+
+-  I’m currently working on **Web and Game Development**.
+-  I’m currently learning **Low-level programming** and **Unity**.
+-  My goal is to become a full-time developer after college.
+-  Fun fact: I love building things from scratch, like Virtual Machines and Game Engines!
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=riteshco&show_icons=true&theme=radical&hide_border=true" alt="riteshco stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riteshco&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="top langs" />
+</div>
