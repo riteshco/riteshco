@@ -21,10 +21,3 @@ I'm a **2nd-year B.Tech student** in Electronics and Communication Engineering a
 -  Fun fact: I love building things from scratch, like Virtual Machines and Game Engines!
 
 ---
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=riteshco&show_icons=true&theme=radical&hide_border=true" alt="riteshco stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riteshco&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="top langs" />
-</div>
