@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ritesh</h1>
+<h1 align="center">Hi, I'm Ritesh</h1>
 <h3 align="center">Web & Game Developer from IIT Roorkee</h3>
 
 <p align="center">
@@ -11,7 +11,7 @@
 
 ---
 
-### 🚀 About Me
+### About Me
 
 I'm a **2nd-year B.Tech student** in Electronics and Communication Engineering at **IIT Roorkee** and a Developer at **SDSLabs**. 
 
