@@ -13,11 +13,10 @@
 
 ### About Me
 
-I'm a **2nd-year B.Tech student** in Electronics and Communication Engineering at **IIT Roorkee** and a Developer at **SDSLabs**. 
+I'm a **3rd-year B.Tech student** in Electronics and Communication Engineering at **IIT Roorkee** and a Developer at **SDSLabs**. 
 
--  I’m currently working on **Web and Game Development**.
--  I’m currently learning **Low-level programming** and **Unity**.
--  My goal is to become a full-time developer after college.
--  Fun fact: I love building things from scratch, like Virtual Machines and Game Engines!
+-  I’m currently working on **Low Level/Systems Development**.
+-  I’m currently learning **x86_64 assembly**.
+-  Fun fact: I love building things from scratch!
 
 ---
